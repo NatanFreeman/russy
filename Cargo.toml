@@ -1,0 +1,8 @@
+[package]
+name = "russy"
+version = "0.1.0"
+edition = "2021"
+license-file = "LICENSE.txt"
+description="Utility library for adding \"ussy\" to the end of things."
+
+[dependencies]
